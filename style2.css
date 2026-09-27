@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.img-left {
+    float: left;
+    width: 200px;
+    margin: 0 15px 15px 0;
+}
+
+.img-right {
+    float: right;
+    width: 200px;
+    margin: 0 0 15px 15px;
+}
+
+.para1 {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.para2 {
+    font-style: italic;
+}
+
+.green-sentence {
+    color: green;
+}

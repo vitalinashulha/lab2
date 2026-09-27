@@ -1,0 +1,13 @@
+body {
+    background-color: darkgreen;
+    color: maroon; 
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: yellow; 
+}
+
+h1, h2 {
+    text-align: center; 
+}
